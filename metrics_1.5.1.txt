@@ -1,0 +1,192 @@
+application_ready_time_seconds{customTag="myCustomTag",main_application_class="com.example.demo.Application"} 2.388
+application_started_time_seconds{customTag="myCustomTag",main_application_class="com.example.demo.Application"} 2.323
+disk_free_bytes{customTag="myCustomTag",path="***"} 6.5968431104E11
+disk_total_bytes{customTag="myCustomTag",path="***"} 9.81132795904E11
+eventProcessor_allTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.5"} 1.92E-5
+eventProcessor_allTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.75"} 3.1488E-5
+eventProcessor_allTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.95"} 5.9136E-5
+eventProcessor_allTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.98"} 8.576E-5
+eventProcessor_allTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.99"} 1.2672E-4
+eventProcessor_allTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.999"} 4.09344E-4
+eventProcessor_allTimer_seconds_count{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo"} 38031
+eventProcessor_allTimer_seconds_sum{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo"} 1.030228674
+eventProcessor_allTimer_seconds_max{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo"} 0.018929937
+eventProcessor_capacity{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo"} 0.0015930744333333333
+eventProcessor_failureCounter_total{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo"} 0.0
+eventProcessor_failureTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.5"} 0.0
+eventProcessor_failureTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.75"} 0.0
+eventProcessor_failureTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.95"} 0.0
+eventProcessor_failureTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.98"} 0.0
+eventProcessor_failureTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.99"} 0.0
+eventProcessor_failureTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.999"} 0.0
+eventProcessor_failureTimer_seconds_count{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo"} 0
+eventProcessor_failureTimer_seconds_sum{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo"} 0.0
+eventProcessor_failureTimer_seconds_max{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo"} 0.0
+eventProcessor_ignoredCounter_total{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo"} 0.0
+eventProcessor_ignoredTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.5"} 0.0
+eventProcessor_ignoredTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.75"} 0.0
+eventProcessor_ignoredTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.95"} 0.0
+eventProcessor_ignoredTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.98"} 0.0
+eventProcessor_ignoredTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.99"} 0.0
+eventProcessor_ignoredTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.999"} 0.0
+eventProcessor_ignoredTimer_seconds_count{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo"} 0
+eventProcessor_ignoredTimer_seconds_sum{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo"} 0.0
+eventProcessor_ignoredTimer_seconds_max{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo"} 0.0
+eventProcessor_ingestedCounter_total{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo"} 38031.0
+eventProcessor_latency{customTag="myCustomTag",processorName="com.example.demo"} 2.0
+eventProcessor_processedCounter_total{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo"} 38031.0
+eventProcessor_successCounter_total{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo"} 38031.0
+eventProcessor_successTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.5"} 1.92E-5
+eventProcessor_successTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.75"} 3.1488E-5
+eventProcessor_successTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.95"} 5.9136E-5
+eventProcessor_successTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.98"} 8.576E-5
+eventProcessor_successTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.99"} 1.2672E-4
+eventProcessor_successTimer_seconds{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo",quantile="0.999"} 4.09344E-4
+eventProcessor_successTimer_seconds_count{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo"} 38031
+eventProcessor_successTimer_seconds_sum{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo"} 1.030228674
+eventProcessor_successTimer_seconds_max{customTag="myCustomTag",payloadType="Object",processorName="com.example.demo"} 0.018929937
+eventStore_allTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.5"} 0.003997696
+eventStore_allTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.75"} 0.005177344
+eventStore_allTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.95"} 0.0376832
+eventStore_allTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.98"} 0.0376832
+eventStore_allTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.99"} 0.0376832
+eventStore_allTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.999"} 0.0376832
+eventStore_allTimer_seconds_count{customTag="myCustomTag",payloadType="Object"} 17
+eventStore_allTimer_seconds_sum{customTag="myCustomTag",payloadType="Object"} 0.09768209
+eventStore_allTimer_seconds_max{customTag="myCustomTag",payloadType="Object"} 0.03632333
+eventStore_failureCounter_total{customTag="myCustomTag"} 0.0
+eventStore_failureTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.5"} 0.0
+eventStore_failureTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.75"} 0.0
+eventStore_failureTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.95"} 0.0
+eventStore_failureTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.98"} 0.0
+eventStore_failureTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.99"} 0.0
+eventStore_failureTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.999"} 0.0
+eventStore_failureTimer_seconds_count{customTag="myCustomTag",payloadType="Object"} 0
+eventStore_failureTimer_seconds_sum{customTag="myCustomTag",payloadType="Object"} 0.0
+eventStore_failureTimer_seconds_max{customTag="myCustomTag",payloadType="Object"} 0.0
+eventStore_ignoredCounter_total{customTag="myCustomTag"} 0.0
+eventStore_ignoredTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.5"} 0.0
+eventStore_ignoredTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.75"} 0.0
+eventStore_ignoredTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.95"} 0.0
+eventStore_ignoredTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.98"} 0.0
+eventStore_ignoredTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.99"} 0.0
+eventStore_ignoredTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.999"} 0.0
+eventStore_ignoredTimer_seconds_count{customTag="myCustomTag",payloadType="Object"} 0
+eventStore_ignoredTimer_seconds_sum{customTag="myCustomTag",payloadType="Object"} 0.0
+eventStore_ignoredTimer_seconds_max{customTag="myCustomTag",payloadType="Object"} 0.0
+eventStore_ingestedCounter_total{customTag="myCustomTag"} 17.0
+eventStore_processedCounter_total{customTag="myCustomTag"} 17.0
+eventStore_successCounter_total{customTag="myCustomTag"} 17.0
+eventStore_successTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.5"} 0.003997696
+eventStore_successTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.75"} 0.005177344
+eventStore_successTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.95"} 0.0376832
+eventStore_successTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.98"} 0.0376832
+eventStore_successTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.99"} 0.0376832
+eventStore_successTimer_seconds{customTag="myCustomTag",payloadType="Object",quantile="0.999"} 0.0376832
+eventStore_successTimer_seconds_count{customTag="myCustomTag",payloadType="Object"} 17
+eventStore_successTimer_seconds_sum{customTag="myCustomTag",payloadType="Object"} 0.09768209
+eventStore_successTimer_seconds_max{customTag="myCustomTag",payloadType="Object"} 0.03632333
+executor_active_threads{customTag="myCustomTag",name="applicationTaskExecutor"} 0.0
+executor_completed_tasks_total{customTag="myCustomTag",name="applicationTaskExecutor"} 0.0
+executor_pool_core_threads{customTag="myCustomTag",name="applicationTaskExecutor"} 8.0
+executor_pool_max_threads{customTag="myCustomTag",name="applicationTaskExecutor"} 2.147483647E9
+executor_pool_size_threads{customTag="myCustomTag",name="applicationTaskExecutor"} 0.0
+executor_queue_remaining_tasks{customTag="myCustomTag",name="applicationTaskExecutor"} 2.147483647E9
+executor_queued_tasks{customTag="myCustomTag",name="applicationTaskExecutor"} 0.0
+http_server_requests_active_seconds_count{customTag="myCustomTag",exception="none",method="GET",outcome="SUCCESS",status="200",uri="UNKNOWN"} 1
+http_server_requests_active_seconds_sum{customTag="myCustomTag",exception="none",method="GET",outcome="SUCCESS",status="200",uri="UNKNOWN"} 0.003280551
+http_server_requests_active_seconds_max{customTag="myCustomTag",exception="none",method="GET",outcome="SUCCESS",status="200",uri="UNKNOWN"} 0.003286808
+http_server_requests_seconds_count{customTag="myCustomTag",error="none",exception="none",method="GET",outcome="SUCCESS",status="200",uri="/actuator/prometheus"} 5
+http_server_requests_seconds_sum{customTag="myCustomTag",error="none",exception="none",method="GET",outcome="SUCCESS",status="200",uri="/actuator/prometheus"} 0.099242441
+http_server_requests_seconds_max{customTag="myCustomTag",error="none",exception="none",method="GET",outcome="SUCCESS",status="200",uri="/actuator/prometheus"} 0.054665474
+jvm_info{customTag="myCustomTag",runtime="***",vendor="***"} 1
+jvm_buffer_count_buffers{customTag="myCustomTag",id="direct"} 59.0
+jvm_buffer_count_buffers{customTag="myCustomTag",id="mapped"} 0.0
+jvm_buffer_count_buffers{customTag="myCustomTag",id="mapped - 'non-volatile memory'"} 0.0
+jvm_buffer_memory_used_bytes{customTag="myCustomTag",id="direct"} 3.5234074E7
+jvm_buffer_memory_used_bytes{customTag="myCustomTag",id="mapped"} 0.0
+jvm_buffer_memory_used_bytes{customTag="myCustomTag",id="mapped - 'non-volatile memory'"} 0.0
+jvm_buffer_total_capacity_bytes{customTag="myCustomTag",id="direct"} 3.5234071E7
+jvm_buffer_total_capacity_bytes{customTag="myCustomTag",id="mapped"} 0.0
+jvm_buffer_total_capacity_bytes{customTag="myCustomTag",id="mapped - 'non-volatile memory'"} 0.0
+jvm_classes_loaded_classes{customTag="myCustomTag"} 16034.0
+jvm_classes_unloaded_classes_total{customTag="myCustomTag"} 0.0
+jvm_compilation_time_ms_total{compiler="HotSpot 64-Bit Tiered Compilers",customTag="myCustomTag"} 14529.0
+jvm_gc_concurrent_phase_time_seconds_count{action="end of concurrent GC pause",cause="No GC",customTag="myCustomTag",gc="G1 Concurrent GC"} 16
+jvm_gc_concurrent_phase_time_seconds_sum{action="end of concurrent GC pause",cause="No GC",customTag="myCustomTag",gc="G1 Concurrent GC"} 0.02
+jvm_gc_concurrent_phase_time_seconds_max{action="end of concurrent GC pause",cause="No GC",customTag="myCustomTag",gc="G1 Concurrent GC"} 0.003
+jvm_gc_live_data_size_bytes{customTag="myCustomTag"} 4.4459424E7
+jvm_gc_max_data_size_bytes{customTag="myCustomTag"} 8.338276352E9
+jvm_gc_memory_allocated_bytes_total{customTag="myCustomTag"} 2.503999488E9
+jvm_gc_memory_promoted_bytes_total{customTag="myCustomTag"} 2.3444704E7
+jvm_gc_overhead{customTag="myCustomTag"} 0.0036560699133396783
+jvm_gc_pause_seconds_count{action="end of minor GC",cause="G1 Evacuation Pause",customTag="myCustomTag",gc="G1 Young Generation"} 19
+jvm_gc_pause_seconds_sum{action="end of minor GC",cause="G1 Evacuation Pause",customTag="myCustomTag",gc="G1 Young Generation"} 0.052
+jvm_gc_pause_seconds_count{action="end of minor GC",cause="G1 Humongous Allocation",customTag="myCustomTag",gc="G1 Young Generation"} 1
+jvm_gc_pause_seconds_sum{action="end of minor GC",cause="G1 Humongous Allocation",customTag="myCustomTag",gc="G1 Young Generation"} 0.003
+jvm_gc_pause_seconds_count{action="end of minor GC",cause="Metadata GC Threshold",customTag="myCustomTag",gc="G1 Young Generation"} 2
+jvm_gc_pause_seconds_sum{action="end of minor GC",cause="Metadata GC Threshold",customTag="myCustomTag",gc="G1 Young Generation"} 0.008
+jvm_gc_pause_seconds_max{action="end of minor GC",cause="G1 Evacuation Pause",customTag="myCustomTag",gc="G1 Young Generation"} 0.006
+jvm_gc_pause_seconds_max{action="end of minor GC",cause="G1 Humongous Allocation",customTag="myCustomTag",gc="G1 Young Generation"} 0.003
+jvm_gc_pause_seconds_max{action="end of minor GC",cause="Metadata GC Threshold",customTag="myCustomTag",gc="G1 Young Generation"} 0.005
+jvm_memory_committed_bytes{area="heap",customTag="myCustomTag",id="G1 Eden Space"} 1.38412032E8
+jvm_memory_committed_bytes{area="heap",customTag="myCustomTag",id="G1 Old Gen"} 8.388608E7
+jvm_memory_committed_bytes{area="heap",customTag="myCustomTag",id="G1 Survivor Space"} 4194304.0
+jvm_memory_committed_bytes{area="nonheap",customTag="myCustomTag",id="CodeHeap 'non-nmethods'"} 6881280.0
+jvm_memory_committed_bytes{area="nonheap",customTag="myCustomTag",id="CodeHeap 'non-profiled nmethods'"} 6356992.0
+jvm_memory_committed_bytes{area="nonheap",customTag="myCustomTag",id="CodeHeap 'profiled nmethods'"} 1.998848E7
+jvm_memory_committed_bytes{area="nonheap",customTag="myCustomTag",id="Compressed Class Space"} 1.0616832E7
+jvm_memory_committed_bytes{area="nonheap",customTag="myCustomTag",id="Metaspace"} 8.5393408E7
+jvm_memory_max_bytes{area="heap",customTag="myCustomTag",id="G1 Eden Space"} -1.0
+jvm_memory_max_bytes{area="heap",customTag="myCustomTag",id="G1 Old Gen"} 8.338276352E9
+jvm_memory_max_bytes{area="heap",customTag="myCustomTag",id="G1 Survivor Space"} -1.0
+jvm_memory_max_bytes{area="nonheap",customTag="myCustomTag",id="CodeHeap 'non-nmethods'"} 1.0457088E7
+jvm_memory_max_bytes{area="nonheap",customTag="myCustomTag",id="CodeHeap 'non-profiled nmethods'"} 1.20602624E8
+jvm_memory_max_bytes{area="nonheap",customTag="myCustomTag",id="CodeHeap 'profiled nmethods'"} 1.20598528E8
+jvm_memory_max_bytes{area="nonheap",customTag="myCustomTag",id="Compressed Class Space"} 1.073741824E9
+jvm_memory_max_bytes{area="nonheap",customTag="myCustomTag",id="Metaspace"} -1.0
+jvm_memory_usage_after_gc{area="heap",customTag="myCustomTag",pool="long-lived"} 0.005794343814043932
+jvm_memory_used_bytes{area="heap",customTag="myCustomTag",id="G1 Eden Space"} 3.3554432E7
+jvm_memory_used_bytes{area="heap",customTag="myCustomTag",id="G1 Old Gen"} 4.831484E7
+jvm_memory_used_bytes{area="heap",customTag="myCustomTag",id="G1 Survivor Space"} 3307200.0
+jvm_memory_used_bytes{area="nonheap",customTag="myCustomTag",id="CodeHeap 'non-nmethods'"} 2149120.0
+jvm_memory_used_bytes{area="nonheap",customTag="myCustomTag",id="CodeHeap 'non-profiled nmethods'"} 6347520.0
+jvm_memory_used_bytes{area="nonheap",customTag="myCustomTag",id="CodeHeap 'profiled nmethods'"} 1.7459968E7
+jvm_memory_used_bytes{area="nonheap",customTag="myCustomTag",id="Compressed Class Space"} 1.0187744E7
+jvm_memory_used_bytes{area="nonheap",customTag="myCustomTag",id="Metaspace"} 8.4458592E7
+jvm_threads_daemon_threads{customTag="myCustomTag"} 42.0
+jvm_threads_live_threads{customTag="myCustomTag"} 52.0
+jvm_threads_peak_threads{customTag="myCustomTag"} 54.0
+jvm_threads_started_threads_total{customTag="myCustomTag"} 59.0
+jvm_threads_states_threads{customTag="myCustomTag",state="blocked"} 0.0
+jvm_threads_states_threads{customTag="myCustomTag",state="new"} 0.0
+jvm_threads_states_threads{customTag="myCustomTag",state="runnable"} 28.0
+jvm_threads_states_threads{customTag="myCustomTag",state="terminated"} 0.0
+jvm_threads_states_threads{customTag="myCustomTag",state="timed-waiting"} 11.0
+jvm_threads_states_threads{customTag="myCustomTag",state="waiting"} 13.0
+logback_events_total{customTag="myCustomTag",level="debug"} 0.0
+logback_events_total{customTag="myCustomTag",level="error"} 0.0
+logback_events_total{customTag="myCustomTag",level="info"} 29.0
+logback_events_total{customTag="myCustomTag",level="trace"} 0.0
+logback_events_total{customTag="myCustomTag",level="warn"} 1.0
+process_cpu_time_ns_total{customTag="myCustomTag"} 2.231E10
+process_cpu_usage{customTag="myCustomTag"} 0.003367003367003367
+process_files_max_files{customTag="myCustomTag"} 1048576.0
+process_files_open_files{customTag="myCustomTag"} 229.0
+process_start_time_seconds{customTag="myCustomTag"} 1.722577208959E9
+process_uptime_seconds{customTag="myCustomTag"} 19.322
+system_cpu_count{customTag="myCustomTag"} 16.0
+system_cpu_usage{customTag="myCustomTag"} 0.07407407407407407
+system_load_average_1m{customTag="myCustomTag"} 1.91259765625
+tasks_scheduled_execution_active_seconds_count{code_function="publishEvent",code_namespace="com.example.demo.DummyDataPublisher",customTag="myCustomTag",exception="none",outcome="UNKNOWN"} 0
+tasks_scheduled_execution_active_seconds_sum{code_function="publishEvent",code_namespace="com.example.demo.DummyDataPublisher",customTag="myCustomTag",exception="none",outcome="UNKNOWN"} 0.0
+tasks_scheduled_execution_active_seconds_max{code_function="publishEvent",code_namespace="com.example.demo.DummyDataPublisher",customTag="myCustomTag",exception="none",outcome="UNKNOWN"} 0.0
+tasks_scheduled_execution_seconds_count{code_function="publishEvent",code_namespace="com.example.demo.DummyDataPublisher",customTag="myCustomTag",error="none",exception="none",outcome="SUCCESS"} 17
+tasks_scheduled_execution_seconds_sum{code_function="publishEvent",code_namespace="com.example.demo.DummyDataPublisher",customTag="myCustomTag",error="none",exception="none",outcome="SUCCESS"} 0.12010763
+tasks_scheduled_execution_seconds_max{code_function="publishEvent",code_namespace="com.example.demo.DummyDataPublisher",customTag="myCustomTag",error="none",exception="none",outcome="SUCCESS"} 0.052153478
+tomcat_sessions_active_current_sessions{customTag="myCustomTag"} 0.0
+tomcat_sessions_active_max_sessions{customTag="myCustomTag"} 0.0
+tomcat_sessions_alive_max_seconds{customTag="myCustomTag"} 0.0
+tomcat_sessions_created_sessions_total{customTag="myCustomTag"} 0.0
+tomcat_sessions_expired_sessions_total{customTag="myCustomTag"} 0.0
+tomcat_sessions_rejected_sessions_total{customTag="myCustomTag"} 0.0
